@@ -1,0 +1,6 @@
+{
+    "$schema": "https://on.cypress.io/cypress.schema.json",
+    "defaultCommandTimeout":9000,
+    "baseUrl": "https://opensource-demo.orangehrmlive.com/"
+
+}
