@@ -1,0 +1,2 @@
+behaviour = should.be
+propertyy = should.have
